@@ -1,6 +1,7 @@
+// Given array of band names
+let bandNames = ['The Rolling Stones', 'Aerosmith', 'The Beatles', 'Red Hot Chili Peppers', 'Led Zeppelin'];
 
 // Function to remove articles and sort lexicographically
-let bandNames - document.getElementById('band');
 function sortBandNames(bandNames) {
   const articles = ['the', 'a', 'an'];
 
